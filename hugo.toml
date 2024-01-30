@@ -4,8 +4,11 @@ title = 'Moobug Wiki'
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
+enableEmoji = true
 
 # For search functionality
 [outputs]
-home = [ "HTML", "RSS", "SEARCH"]
+  home = [ "HTML", "RSS", "SEARCH"]
 
+[params]
+  disableExplicitIndexURLs = true
