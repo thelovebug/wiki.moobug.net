@@ -12,4 +12,4 @@ This is very much a work in progress!
 
 ### [Games](/games) *and games resources*
 
-### [Misc](/misc) 
+### [Misc](/misc)
