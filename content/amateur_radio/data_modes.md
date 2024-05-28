@@ -6,9 +6,10 @@ title = "Data modes"
 This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
 Reach out to me via [QRZ][QRZ] for any additions and omissions.
-{{% /notice %}}
 
 [QRZ]: https://qrz.com/db/M7TLB
+
+{{% /notice %}}
 
 {{% notice style="warning" %}}
 This is a new article, and thus a work in progress.

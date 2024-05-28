@@ -6,9 +6,10 @@ title = "Connecting a Cisco SPA500-series IP phone to your AllStar node"
 This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
 Reach out to me via [QRZ][QRZ] for any additions and omissions.
-{{% /notice %}}
 
 [QRZ]: https://qrz.com/db/M7TLB
+
+{{% /notice %}}
 
 In my [introductory post](/Amateur_Radio/To_Radio_or_not_to_Radio), I give some (translation: a lot of) detail into how I got involved with using internet-assisted technology to enhance and enrich the experience of Amateur Radio.
 
