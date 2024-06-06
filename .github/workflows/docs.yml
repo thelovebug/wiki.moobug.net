@@ -5,18 +5,18 @@ on:
     branches:
       - main
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 
 jobs:
   build-deploy:
     name: Build and deploy docs
 
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
 
     steps:
       - name: Checkout 🛎️
