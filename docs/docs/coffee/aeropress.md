@@ -2,6 +2,8 @@
 title = "Aeropress"
 ---
 
+Aeropress is one of my favourite bean/ground coffee brewing options... and I have a few!
+
 ## Brewing methods
 
 === "Inverted method"
@@ -17,4 +19,3 @@ title = "Aeropress"
     * Slowly depress the plunger - try and take about 30 seconds
     * Stop plunging as soon as hissing is heard from the Aeropress
     * You get the best results and flavours from the coffee once it has cooled
-
