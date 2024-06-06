@@ -1,6 +1,6 @@
-+++
-title = "Wordle-style games"
-+++
+---
+title: "Wordle-style games"
+---
 
 ## Word games
 
