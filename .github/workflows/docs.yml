@@ -41,3 +41,7 @@ jobs:
       - name: Build and deploy to GitHub Pages 🏗️ 🚀
         working-directory: docs
         run: make deploy
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
