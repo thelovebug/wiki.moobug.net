@@ -1,5 +1,5 @@
 ---
-title= "Moobug Wiki"
+title: "Moobug Wiki"
 ---
 
 ## A collection of stuff about stuff
