@@ -2,11 +2,11 @@
 title: "Moobug Wiki"
 ---
 
-## A collection of stuff about stuff
-
-!!! warning "Work in progress"
+!!! warning inline end "Work in progress"
 
     This is very much a work in progress!
+
+## A collection of stuff about stuff
 
 ### [Amateur Radio](amateur_radio/index.md) *and related stuff*
 

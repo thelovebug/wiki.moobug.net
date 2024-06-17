@@ -1,5 +1,5 @@
 ---
-title = "Aeropress"
+title: "Aeropress"
 ---
 
 Aeropress is one of my favourite bean/ground coffee brewing options... and I have a few!
