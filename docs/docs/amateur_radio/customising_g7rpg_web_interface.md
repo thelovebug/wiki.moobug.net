@@ -2,7 +2,7 @@
 title: "How to customise the G7RPG web interface to your own liking"
 ---
 
-!!! information
+!!! info
     This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
     Reach out to me via [QRZ][QRZ] for any additions and omissions.

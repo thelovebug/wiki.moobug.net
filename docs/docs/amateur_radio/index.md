@@ -2,8 +2,7 @@
 title: "Amateur Radio"
 ---
 
-!!! information
-    I'll be putting a whole bunch of resources here related to Amateur Radio.
+!!! info "I'll be putting a whole bunch of resources here related to Amateur Radio."
 
 ## Articles
 

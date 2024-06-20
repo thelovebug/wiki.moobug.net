@@ -2,16 +2,14 @@
 title: "Setting up FT8 on Linux with the Xiegu G90"
 ---
 
-!!! information
+!!! info
     This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
     Reach out to me via [QRZ][QRZ] for any additions and omissions.
 
 [QRZ]: https://qrz.com/db/M7TLB
 
-
-!!! warning
-    This document is a work in progress, and therefore may be utter bobbins.
+!!! warning "This document is a work in progress, and therefore may be utter bobbins."
 
 ## Overview
 

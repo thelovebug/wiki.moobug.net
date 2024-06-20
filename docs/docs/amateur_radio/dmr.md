@@ -2,8 +2,7 @@
 title: "To Do: DMR"
 ---
 
-!!! information
-    This is a living document as I'm on my DMR journey now.  It will start as a to-do list, and ultimately become a reference, but it may change frequently.
+!!! info "This is a living document as I'm on my DMR journey now.  It will start as a to-do list, and ultimately become a reference, but it may change frequently."
 
 ## Configuration
 

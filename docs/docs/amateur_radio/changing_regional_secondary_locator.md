@@ -2,15 +2,14 @@
 title: "Changing Regional Secondary Locator"
 ---
 
-!!! information
+!!! info
     This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
     Reach out to me via [QRZ][QRZ] for any additions and omissions.
 
 [QRZ]: https://qrz.com/db/M7TLB
 
-!!! warning
-This is a new article, and thus a work in progress.
+!!! warning "This is a new article, and thus a work in progress."
 
 I've had a couple of occasions to change my RSL, both related to HM The Queen in some way or other.  There are a few things to change when doing this, so I'm making a list here of things that *__I__* have to do to accommodate it.
 

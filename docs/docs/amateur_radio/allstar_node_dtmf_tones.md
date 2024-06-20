@@ -2,15 +2,14 @@
 title: "Allstar node DTMF tones"
 ---
 
-!!! information
+!!! info
     This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
     Reach out to me via [QRZ][QRZ] for any additions and omissions.
 
 [QRZ]: https://qrz.com/db/M7TLB
 
-!!! warning
-    This is a living document that will be updated as appropriate
+!!! warning "This is a living document that will be updated as appropriate"
 
 ## DTMF tones
 

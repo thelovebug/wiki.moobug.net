@@ -7,20 +7,20 @@ icon: material/emoticon-happy
 ## Shack
 
 | Service  | Hostname | Local Network | External Network |
-| -------- | :------: | :-----------: | :--------------: |
-| **Allstar Node 550292** | `alto` | | [Dashboard](http://alto.ext/) : [Supermon](http://alto.ext/supermon/link.php?nodes=550292) |
-| **Allstar Node 550290** | `microhub` | [Dashboard](http://microhub.lan/) : [Supermon](http://microhub.lan/supermon/link.php?nodes=550290) | [Dashboard](http://microhub.ext/) : [Supermon](http://microhub.ext/supermon/link.php?nodes=550290) |
-| **openSPOT4** | `openspot` | [Dashboard](http://openspot.lan/) | [Dashboard](http://sharkrf.link/) |
-| **Shack MMDVM - YSF** | `mmdvm-y` | [Dashboard](http://mmdvm-y.lan/) : [Admin](http://mmdvm-y.lan/admin/) | [Dashboard](http://mmdvm-y.ext/) : [Admin](http://mmdvm-y.ext/admin/) |
-| **Shack MMDVM - DMR** | `mmdvm-d` | [Dashboard](http://mmdvm-d.lan/) : [Admin](http://mmdvm-d.lan/admin/) | [Dashboard](http://mmdvm-d.ext/) : [Admin](http://mmdvm-d.ext/admin/) |
-| **Doomsday Box** | `mmdvm-p` | [Dashboard](http://mmdvm-p.lan/) : [Admin](http://mmdvm-p.lan/admin/) | [Dashboard](http://mmdvm-p.ext/) : [Admin](http://mmdvm-p.ext/admin/) |
-| **PAT** | `pat` | [Mailbox](http://pat.lan:8080/ui#) | [Mailbox](http://pat.ext:8080/ui#) |
+| -------- | :------: | :------------ | :--------------- |
+| **Allstar<br />550292** | `alto` | | [Dash](http://alto.ext/){ .md-button } [Super](http://alto.ext/supermon/link.php?nodes=550292){ .md-button } |
+| **Allstar<br />550290** | `microhub` | [Dash](http://microhub.lan/){ .md-button } [Super](http://microhub.lan/supermon/link.php?nodes=550290){ .md-button } | [Dash](http://microhub.ext/){ .md-button } [Super](http://microhub.ext/supermon/link.php?nodes=550290){ .md-button } |
+| **openSPOT** | `openspot` | [Dash](http://openspot.lan/){ .md-button } | [Dash](http://sharkrf.link/){ .md-button } |
+| **MMDVM<br />YSF** | `mmdvm-y` | [Dash](http://mmdvm-y.lan/){ .md-button } [Admin](http://mmdvm-y.lan/admin/){ .md-button } | [Dash](http://mmdvm-y.ext/){ .md-button } [Admin](http://mmdvm-y.ext/admin/){ .md-button } |
+| **MMDVM<br />DMR** | `mmdvm-d` | [Dash](http://mmdvm-d.lan/){ .md-button } [Admin](http://mmdvm-d.lan/admin/){ .md-button } | [Dash](http://mmdvm-d.ext/){ .md-button } [Admin](http://mmdvm-d.ext/admin/){ .md-button } |
+| **Doomsday<br />Box** | `mmdvm-p` | [Dash](http://mmdvm-p.lan/){ .md-button } [Admin](http://mmdvm-p.lan/admin/){ .md-button } | [Dash](http://mmdvm-p.ext/){ .md-button } [Admin](http://mmdvm-p.ext/admin/){ .md-button } |
+| **PAT** | `pat` | [Mailbox](http://pat.lan:8080/ui#){ .md-button } | [Mailbox](http://pat.ext:8080/ui#){ .md-button } |
 
 ## Non-shack
 
 | Service  | Hostname | Local Network | External Network |
-| -------- | :------: | :-----------: | :--------------: |
-| **ADS-B Node** | `fr24` | [FR24 Feeder](http://fr24.lan:8754/) : [OARC Feeder](http://fr24.lan/oarc-adsb/) | [FR24 Feeder](http://fr24.ext:8754/) : [OARC Feeder](http://fr24.ext/oarc-adsb/) |
-| **OctoPi** | `octopi` | [Dashboard](https://octopi.lan/) | [Dashboard](https://octopi.ext/) |
-| **VOIP Moo** | `voip1` | [Advanced](http://voip1.lan/admin/advanced) | |
-| **VOIP Bug** | `voip3` | [Dashboard](https://voip3.lan/) | |
+| -------- | :------: | :------------ | :--------------- |
+| **ADS-B<br />Feeder** | `fr24` | [FR24](http://fr24.lan:8754/){ .md-button } [OARC](http://fr24.lan/oarc-adsb/){ .md-button } | [FR24](http://fr24.ext:8754/){ .md-button } [OARC](http://fr24.ext/oarc-adsb/){ .md-button } |
+| **OctoPi** | `octopi` | [Dash](https://octopi.lan/){ .md-button } | [Dash](https://octopi.ext/){ .md-button } |
+| **VOIP<br />Moo** | `voip1` | [Admin Advanced](http://voip1.lan/admin/advanced){ .md-button } | |
+| **VOIP<br />Bug** | `voip3` | [Dash](https://voip3.lan/){ .md-button } | |

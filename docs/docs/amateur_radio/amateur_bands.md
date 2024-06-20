@@ -2,9 +2,7 @@
 title: "Amateur Radio Bands - wavelengths and frequencies"
 ---
 
-!!! information
-    Here is a list of UK frequencies covered by each Amateur band.
-    The use of these frequencies is dependent on your licence class, amongst other factors.
+!!! info "Here is a list of UK frequencies covered by each Amateur band.  The use of these frequencies is dependent on your licence class, amongst other factors."
 
 | wavelength | band  | frequency start | frequency end | notes                    | Mid-point SWR |
 | ---------: | :---: | --------------: | ------------: | ------------------------ | ------------: |

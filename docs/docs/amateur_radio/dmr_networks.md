@@ -2,15 +2,14 @@
 title: "DMR networks"
 ---
 
-!!! information
+!!! info
     This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
     Reach out to me via [QRZ][QRZ] for any additions and omissions.
 
 [QRZ]: https://qrz.com/db/M7TLB
 
-!!! warning
-    This is a new article, and thus a work in progress.
+!!! warning "This is a new article, and thus a work in progress."
 
 This is a list of DMR Networks that I'm aware of, with useful links to various lists and dashboards that are relevant to each one of them.  I've created this as much for my own reference as for anyone else's.  As always, if something is awry or could do with improving, my email address is on my [QRZ][QRZ] page.
 

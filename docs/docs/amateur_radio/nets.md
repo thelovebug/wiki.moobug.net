@@ -3,7 +3,7 @@ title: "Networks"
 ---
 
 
-!!! information
+!!! info
     A list of analogue and digital networks accessible from hotspots and client software, like Dudestar.
 
     *Note: this is a list of networks that I frequent... there are thousands more.*

@@ -2,7 +2,7 @@
 title: "Connecting a Cisco SPA500-series IP phone to your AllStar node"
 ---
 
-!!! information
+!!! info
     This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
     Reach out to me via [QRZ][QRZ] for any additions and omissions.

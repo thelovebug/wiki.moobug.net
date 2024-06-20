@@ -2,11 +2,9 @@
 title: "Raspberry Pi"
 ---
 
-!!! information
-    This is a living document as my Pi deployments change regularly, so it may change frequently.
+!!! info "This is a living document as my Pi deployments change regularly, so it may change frequently."
 
-!!! tip
-    My current Pi count (estimate) is **15**.
+!!! tip "My current Pi count (estimate) is _15_."
 
 ## Raspberry Pi 400
 
@@ -14,8 +12,7 @@ title: "Raspberry Pi"
 
 ## Raspberry Pi 3B
 
-!!! information inline end
-    *At least one of these will be a 3B+*
+!!! info inline end "At least one of these will be a 3B+"
 
 * **MotionEye**
   Acts as a hub for my CCTV system, using two Pi Zero W's as cameras

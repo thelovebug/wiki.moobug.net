@@ -2,7 +2,7 @@
 title: "SIP services"
 ---
 
-!!! information
+!!! info
     This article was written by operator [Dave M7TLB][QRZ], for the Amateur Radio community.
 
     Reach out to me via [QRZ][QRZ] for any additions and omissions.
@@ -58,7 +58,7 @@ Where there is a :white_check_mark:, it means that I use that service.
 | :white_check_mark: | **Amateur Link** | [amateurlinkweb.hamradio.win](https://amateurlinkweb.hamradio.win/) | [Discord](https://discord.gg/7F2GqDrQnV) | [Phonebook](https://amateurlinkweb.hamradio.win/phonebook.html) | [#questions](https://discord.com/channels/1016485122410823711/1016485273074405447) | |
 | :white_check_mark: | **Hamshack Hotline** | [hamshackhotline.com](https://hamshackhotline.com/) | [Discord](https://discord.gg/YaGsRZWa6C) | [Phonebook](https://apps.hamshackhotline.com:9091/search.php) \| [Services](https://apps.hamshackhotline.com:9091/services.php) | [Helpdesk](https://apps.hamshackhotline.com:9090/) | [Wiki](https://wiki.hamshackhotline.com/) |
 
-!!! information
+!!! info
     This is not an official list, nor is it exhaustive... just some links I put together in one place.
 
     Your mileage will vary, obviously.  Let me know if anything needs adding or amending.
