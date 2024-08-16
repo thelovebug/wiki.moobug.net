@@ -1,8 +1,11 @@
-# Book lists
+# :octicons-book-16: Books
 
 !!! info ""
-    * A number in brackets is the number of _available_ books for that author that are on my reading list but unread
+    *A number in brackets is the number of _available_ books for that author that are on my reading list but unread
     * A :octicons-check-circle-16: in the headings means I've read everything for that author that's on my reading list
+
+    [!["Goodreads logo button links to my Goodreads profile"](https://img.shields.io/badge/goodreads-profile-beige?logo=goodreads
+    )](https://www.goodreads.com/user/show/19368357-dave-lee)
 
 ??? note "Neil Bullock (1)"
 
@@ -96,8 +99,8 @@
     | :-: | :-- | :-- | :-: |
     |   | **DS Jamie Johansson** |  |  |
     | 1 | Bare Skin | 2020 | :octicons-check-circle-16: |
-    | 2 | Fresh Meat | 2020 | :octicons-arrow-left-16: |
-    | 3 | Idle Hands | 2020 |  |
+    | 2 | Fresh Meat | 2020 | :octicons-check-circle-16: |
+    | 3 | Idle Hands | 2020 | :octicons-arrow-left-16: |
     |   | **DI Jamie Johansson** |  |  |
     | 1 | Angel Maker | 2021 | :octicons-check-circle-16: |
     | 2 | Rising Tide | 2021 |  |

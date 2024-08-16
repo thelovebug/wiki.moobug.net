@@ -6,6 +6,16 @@ title: "Lists"
 
 <div class="grid cards" markdown>
 
-* [Books](books.md) *Books and book series that I'm reading or want to read*
+- [:octicons-book-16: Books](books.md)
+
+    ---
+
+    Books and book series that I'm reading or want to read*
+
+- [:simple-raspberrypi: Raspberry Pis](pis.md)
+
+    ---
+
+    Raspberry Pis and how they're being used here
 
 </div>
