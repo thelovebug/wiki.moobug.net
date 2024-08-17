@@ -1,6 +1,4 @@
----
-title: "Lists"
----
+# :material-list-box: Lists
 
 !!! information "Lists of things"
 
@@ -10,12 +8,18 @@ title: "Lists"
 
     ---
 
-    Books and book series that I'm reading or want to read*
+    *Books and book series that I'm reading or want to read*
+
+- [:material-movie-open: Films](films.md)
+
+    ---
+
+    *Films and film franchises that are among my favourite of all time*
 
 - [:simple-raspberrypi: Raspberry Pis](pis.md)
 
     ---
 
-    Raspberry Pis and how they're being used here
+    *Raspberry Pis and how they're being used here*
 
 </div>

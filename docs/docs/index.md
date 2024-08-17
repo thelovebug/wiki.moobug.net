@@ -20,6 +20,10 @@ title: "Moobug Wiki"
 
     *and games resources*
 
+- [:material-list-box: Lists](lists/index.md)
+
+    *lists of things*
+
 - [:material-dots-horizontal-circle: Misc](misc/index.md)
 
 </div>

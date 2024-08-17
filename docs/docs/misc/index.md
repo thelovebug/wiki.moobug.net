@@ -1,4 +1,1 @@
----
-title: "Miscellaneous"
----
-
+# :material-dots-horizontal-circle: Miscellaneous

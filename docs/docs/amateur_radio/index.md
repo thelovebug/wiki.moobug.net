@@ -1,6 +1,4 @@
----
-title: "Amateur Radio"
----
+# :material-radio: Amateur Radio
 
 !!! info "I'll be putting a whole bunch of resources here related to Amateur Radio."
 
