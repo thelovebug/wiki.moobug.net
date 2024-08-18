@@ -1,3 +1,7 @@
+---
+icon: simple/raspberrypi
+---
+
 # :simple-raspberrypi: Raspberry Pis
 
 !!! info "This is a living document as my Pi deployments change regularly, so it may change frequently."

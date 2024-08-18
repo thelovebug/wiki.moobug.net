@@ -1,3 +1,7 @@
+---
+icon: material/gamepad-variant
+---
+
 # :material-gamepad-variant: Games
 
 !!! information "Lots of games resources (eventually)"

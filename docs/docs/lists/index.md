@@ -1,3 +1,7 @@
+---
+icon: material/list-box
+---
+
 # :material-list-box: Lists
 
 !!! information "Lists of things"

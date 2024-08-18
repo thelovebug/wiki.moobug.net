@@ -1,3 +1,8 @@
+---
+status: new
+icon: octicons/book-16
+---
+
 # :octicons-book-16: Books
 
 !!! info ""

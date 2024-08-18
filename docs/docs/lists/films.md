@@ -1,3 +1,8 @@
+---
+status: new
+icon: material/movie-open
+---
+
 # :material-movie-open: Films
 
 !!! info ""

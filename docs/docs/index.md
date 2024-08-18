@@ -1,6 +1,8 @@
 ---
-title: "Moobug Wiki"
+icon: material/home
 ---
+
+# :material-home: Home
 
 !!! warning "This is very much a work in progress!"
 
