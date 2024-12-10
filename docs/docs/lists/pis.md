@@ -62,6 +62,11 @@ icon: simple/raspberrypi
 
 1. Originally came with my DV Mega, but I upgraded it.  Now sitting idle.
 
+## Raspberry Pi Zero 2 W
+
+1. **Portable MMDVM hotspot**
+  Built a YSF/DMR/POCSAG hotspot for portable use, with a built-in battery.
+
 ## Raspberry Pi Zero W
 
 1. **CCTV cameras** ×2
@@ -71,8 +76,3 @@ icon: simple/raspberrypi
 
 3. **PAT server**
   I'm running this one as a PAT server so I can access my Winlink email from anywhere
-
-## Raspberry Pi Zero 2 W
-
-1. **Portable MMDVM hotspot**
-  Built a YSF/DMR/POCSAG hotspot for portable use, with a built-in battery.
