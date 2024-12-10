@@ -12,14 +12,20 @@ icon: octicons/book-16
     [!["Goodreads logo button links to my Goodreads profile"](https://img.shields.io/badge/goodreads-profile-beige?logo=goodreads
     )](https://www.goodreads.com/user/show/19368357-dave-lee)
 
-??? note "Neil Bullock (1)"
+??? note "Neil Bullock :octicons-check-circle-16:"
 
     | # | Title | Published | Read |
     | :-: | :-- | :-- | :-: |
     |  | **Primordials** |  |  |
     | 1 | Off Track | 2021 | :octicons-check-circle-16: |
     | 2 | Earth Twelve | 2021 | :octicons-check-circle-16: |
-    | 3 | Nexus | 2023 |  |
+    | 3 | Nexus | 2023 | :octicons-check-circle-16: |
+    | _4_ |  |  |  |
+    | _5_ |  |  |  |
+    | _6_ |  |  |  |
+    | _7_ |  |  |  |
+    | _8_ |  |  |  |
+    | _9_ |  |  |  |
 
 ??? note "Steve Cavanagh (3)"
 
@@ -41,12 +47,12 @@ icon: octicons/book-16
     |   | Twisted | 2019 | :octicons-check-circle-16: |
     |   | Kill For Me Kill For You | 2023 |  |
 
-??? note "Imogen Clark/Izzy Bromley (8)"
+??? note "Imogen Clark/Izzy Bromley (7)"
 
     | # | Title | Published | Read |
     | :-: | :-- | :-- | :-: |
     |   | Postcards From a Stranger | 2018 | :octicons-check-circle-16: |
-    |   | The Thing About Clare | 2018 |  |
+    |   | The Thing About Clare | 2018 | :octicons-check-circle-16: |
     |   | Where The Story Starts | 2019 | :octicons-check-circle-16: |
     |   | Postcards at Christmas | 2019 | :octicons-check-circle-16: |
     |   | The Last Piece | 2020 | :octicons-check-circle-16: |
@@ -105,7 +111,7 @@ icon: octicons/book-16
     |   | **DS Jamie Johansson** |  |  |
     | 1 | Bare Skin | 2020 | :octicons-check-circle-16: |
     | 2 | Fresh Meat | 2020 | :octicons-check-circle-16: |
-    | 3 | Idle Hands | 2020 | :octicons-arrow-left-16: |
+    | 3 | Idle Hands | 2020 | :octicons-check-circle-16: |
     |   | **DI Jamie Johansson** |  |  |
     | 1 | Angel Maker | 2021 | :octicons-check-circle-16: |
     | 2 | Rising Tide | 2021 |  |
@@ -131,7 +137,7 @@ icon: octicons/book-16
     | 4 | A Proper Place | 1974 | :octicons-check-circle-16: |
     | 5 | Hostages To Fortune | 1976 | :octicons-check-circle-16: |
 
-??? note "Torquil MacLeod"
+??? note "Torquil MacLeod (1)"
 
     | # | Title | Published | Read |
     | :-: | :-- | :-- | :-: |
@@ -146,7 +152,7 @@ icon: octicons/book-16
     | 7 | Mourning In Malmö | 2020 | :octicons-check-circle-16: |
     | 8 | Mammon In Malmö | 2021 | :octicons-check-circle-16: |
     | 9 | Mission in Malmö | 2022 | :octicons-check-circle-16: |
-    | 10 | _Myth in Malmö_ | _2024_ |  |
+    | 10 | Myth in Malmö | 2024 | :octicons-arrow-left-16: |
 
 ??? note "Richard Osman (3)"
 

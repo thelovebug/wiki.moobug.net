@@ -16,7 +16,7 @@ All of these can be umbrella'd quite nicely by the now-infamous [xkcd 386][386-l
 
 !["The image is of XKCD comic number 386 which shows someone typing furiously at a keyboard.  Off-panel, a second person says 'Are you coming to bed?' Person one replies, 'I can't. This is important.' Person two, 'What?' Person one, 'Someone is wrong on the internet.' (the word 'wrong' is underlined in emphasis)"][386-img]
 
-## What is Amateur Radio, anyway?
+## What is Amateur Radio
 
 I have enjoyed many a discussion on the above three debate topics (and others) that have been both entertaining and intriguing.  But never have I seen as much vitriol as I have under the subject of Amateur Radio and what actually constitutes "radio" in that context.
 
@@ -29,7 +29,7 @@ The Wikipedia page for [Amateur Radio][wiki-amateur] describes the hobby as:
 
 The scope and field of Amateur Radio is huge.  Starting from something as simple and straight-forward as picking up a radio and talking to another Amateur operator a mile away over the air, progressing through to something as complex as using a digital radio which connects to a hotspot which then connects to a central hub via the internet which is then picked up by an internet-connected repeater in another continent which is then picked up and heard by another operator with an analogue radio in the middle of a field somewhere.  You've also got your computer-to-computer (or data) modes, which allow you to send very narrow coded symbols over much larger distances than you could do with voice.  Then, of course, there's the ultimate person-to-person data mode, CW or Morse Code.
 
-## ... but it's not radio
+## But it's not radio
 
 I have been witness to some very measured (and, in other cases, incredibly vile) arguments regarding what "radio" actually is.  There are very many different interpretations around what "radio" means - particularly in the context of Amateur Radio.  Technically, none of them are wrong (although there is one particular use-case exception which I'll touch on in a bit).  Now, I want to qualify this by saying that, in the context of Amateur Radio, I'm defining "radio" as the use of the recognised Amateur Bands as defined by the ITU (and illustrated in [this Wikipedia article][wiki-amateurbands]).  I also want to make it clear that although some of the 13cm band overlaps with the 2.4GHz WiFi and Bluetooth allocations, I'm not counting the use of WiFi and Bluetooth as "radio" in this context.
 
@@ -51,7 +51,7 @@ A lot of these mechanisms that I've just mentioned - whilst they have the capabi
 
 At the start of this article, I used the words **"educate, experiment, entertain"** to describe what I feel is the spirit of Amateur Radio.  It's certainly the reason why I got involved in it.  I have (educate) learned so much in the 3½ years that I've had my license, I have (experiment) built my own antenna which has allowed me to be heard in Tazmania (~10,000mi away), I have (entertain) had an awful lot of fun in the process, and I have made some (excellent) friends on that journey.
 
-## What's my point?
+## What's my point
 
 My point is very simple.
 
