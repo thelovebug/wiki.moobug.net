@@ -17,22 +17,23 @@ For the purposes of this document, the terms "SIP" and "VoIP" are used interchan
 
 But ultimately, it amounts to being able to use a telephone - either a compatible physical phone on your desk, or a piece of software on your smartphone or computer - to talk to other people over the internet on the same system.  Many telecoms operators around the world are starting to use this technology rather than fixed-line telephones on a dedicated piece of wire from your local telephone exchange or cable operator.
 
-For example, I can pick up the handset on my Cisco desk phone, press the line for Hams Over IP (see the list below), dial the extension 200031, and a phone will ring in the Amateur Radio shack of my friend Mark 2E1CEQ in the south of England.  It's only because he and I are on the same network (Hams Over IP, in this example) that we are able to communicate in this way.  It *is* possible to have a link between different systems, but that can never be guaranteed... so I'm going to work on the basis that all of them are standalone.
+For example, I can pick up the handset on my desk phone, press the line for Hams Over IP (see the list below), dial the extension 200031, and a phone will ring in the Amateur Radio shack of my friend Mark 2E1CEQ in the south of England.  It's only because he and I are on the same network (Hams Over IP, in this example) that we are able to communicate in this way.  It *is* possible to have a link between different systems, but that can never be guaranteed... so I'm going to work on the basis that all of them are standalone.
 
 ## What kind of phone do I need?
 
-You can use what's called a hardphone - like a Cisco SPA525G2:
+You can use what's called a hardphone - like a Cisco SPA525G:
 
-![A picture of a Cisco SPA525G2](https://img.hamphotos.com/mt0QsjdA.jpg)
+![A picture of a Cisco SPA525G](https://img.hamphotos.com/mt0QsjdA.jpg)
 
-... or a softphone, like [Acrobits Groundwire](https://www.acrobits.net/sip-client-ios-android/) for smartphone, [Zoiper](https://www.zoiper.com/) or [Linphone](https://www.linphone.org/) for smartphone and desktop, or [MicroSIP](https://www.microsip.org/) for Windows only.  
+... or a softphone, like [Acrobits Groundwire](https://www.acrobits.net/sip-client-ios-android/) for smartphone, [Zoiper](https://www.zoiper.com/) or [Linphone](https://www.linphone.org/) for smartphone and desktop, or [MicroSIP](https://www.microsip.org/) for Windows only.
 
 There are loads - and I mean *loads* - of hard and softphones available.  Even Wikipedia's [Comparison of VoIP software](https://en.wikipedia.org/wiki/Comparison_of_VoIP_software) page doesn't even come close.
 
 Personally, I use:
 
-* a Cisco SPA525G2 on my desk - 5 lines, all in use, and
-* Groundwire on my Android phone - 6 services active
+* a Fanvil X210V2 on my office/studio/shack desk, 9 lines in use (out of 20),
+* a Cisco SPA525G2 for portable use - 5 lines (out of 5), and
+* Groundwire on my Android phone and tablet - 8 lines active
 
 ## So I can only call other phones?
 
@@ -52,10 +53,9 @@ Where there is a :white_check_mark:, it means that I use that service.
 
 | &nbsp; | SIP Service Name | URL | Community | Phonebook | Helpdesk | Wiki |
 | - | ---------------- | --- | --------- | --------- | -------- | ---- |
-| :white_check_mark: | **Hams Over IP (HoIP)** | [hamsoverip.com](https://hamsoverip.com/) | [Discord](https://discord.gg/hEJqeV7W9Q) | [Phonebook](https://pb.hamsoverip.com/) | [Helpdesk](https://helpdesk.hamsoverip.com/osticket/) | [Wiki](https://hamsoverip.github.io/wiki/) |
+| :white_check_mark: | **Hams Over IP (HoIP)** | [hamsoverip.com](https://hamsoverip.com/) | [Discord](https://discord.gg/hEJqeV7W9Q) | [Phonebook](https://hamsoverip.com/phonebook) | [Helpdesk](https://helpdesk.hamsoverip.com/osticket/) | [Wiki](https://hamsoverip.github.io/wiki/) |
 | :white_check_mark: | **Amateur Wire** | [amateurwire.org](https://amateurwire.org/) | [Discord](https://discord.gg/G6wMWuM7PX) | [Phonebook](https://amateurwire.org/index.php/phone-book/) | | |
 | :white_check_mark: | **Extended Freedom** | [extendedfreedom.network](https://extendedfreedom.network/) | |  | | |
-| :white_check_mark: | **Amateur Link** | [amateurlinkweb.hamradio.win](https://amateurlinkweb.hamradio.win/) | [Discord](https://discord.gg/7F2GqDrQnV) | [Phonebook](https://amateurlinkweb.hamradio.win/phonebook.html) | [#questions](https://discord.com/channels/1016485122410823711/1016485273074405447) | |
 | :white_check_mark: | **Hamshack Hotline** | [hamshackhotline.com](https://hamshackhotline.com/) | [Discord](https://discord.gg/YaGsRZWa6C) | [Phonebook](https://apps.hamshackhotline.com:9091/search.php) \| [Services](https://apps.hamshackhotline.com:9091/services.php) | [Helpdesk](https://apps.hamshackhotline.com:9090/) | [Wiki](https://wiki.hamshackhotline.com/) |
 
 !!! info
