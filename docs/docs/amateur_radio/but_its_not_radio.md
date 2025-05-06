@@ -35,7 +35,7 @@ I have been witness to some very measured (and, in other cases, incredibly vile)
 
 ## Yes, it is
 
-In my opinion, and in the spirit of Amateur Radio [as defined above](#what-is-amateur-radio-anyway), any communication utilises the Amateur Radio bands at some point between the transmitter and the receiver, is "radio".
+In my opinion, and in the spirit of Amateur Radio [as defined above](#what-is-amateur-radio), any communication utilises the Amateur Radio bands at some point between the transmitter and the receiver, is "radio".
 
 ## Having said that
 
