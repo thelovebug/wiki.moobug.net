@@ -1,4 +1,5 @@
 ---
+status: new
 icon: simple/raspberrypi
 ---
 
@@ -6,7 +7,7 @@ icon: simple/raspberrypi
 
 !!! info "This is a living document as my Pi deployments change regularly, so it may change frequently."
 
-!!! tip "My current Pi count (estimate) is _16_."
+!!! tip "My current Pi count (estimate) is _17_."
 
 ## Raspberry Pi 5
 
@@ -25,30 +26,35 @@ icon: simple/raspberrypi
 
 1. Originally used as my Shack PC, but I "upgraded" it to an old laptop which was much quicker.  So at the moment it's not doing anything.  #AmateurRadio
 
+## Raspberry Pi 4
+
+1. **Shari Node**  
+  This one is being used in my car as a portable Allstar node.  Thinking of downgrading this to a Pi 3B purely because I can put the Pi 4 to better use.
+
 ## Raspberry Pi 3B
 
 !!! info inline end "At least one of these will be a 3B+"
 
-1. **MotionEye**
+1. **MotionEye**  
   Acts as a hub for my CCTV system, using two Pi Zero W's as cameras
   
-2. **OctoPi**
+2. **OctoPi**  
   Acts as the controller for my 3D printer running OctoPi
 
-3. **FR24 feeder**
+3. **FR24 feeder**  
   I'm feeding ADS-B (flight data) to FlightRadar24 and OARC Feeder with this.
 
 ## Raspberry Pi 3A+
 
-1. **DMR Hotspot**
+1. **DMR Hotspot**  
   Acts as a DMR/POCSAG hotspot for my shack #AmateurRadio
 
-2. **YSF Hotspot**
+2. **YSF Hotspot**  
   Acts as a YSF hotspot for my shack #AmateurRadio
 
 ## Raspberry Pi 2B
 
-1. **G7RPG microHUB**
+1. **G7RPG microHUB**  
   Acts as an Allstar node for my shack #AmateurRadio
 
 2. I believe I have another one of these kicking around somewhere
@@ -64,15 +70,15 @@ icon: simple/raspberrypi
 
 ## Raspberry Pi Zero 2 W
 
-1. **Portable MMDVM hotspot**
+1. **Portable MMDVM hotspot**  
   Built a YSF/DMR/POCSAG hotspot for portable use, with a built-in battery.
 
 ## Raspberry Pi Zero W
 
-1. **CCTV cameras** ×2
+1. **CCTV cameras** ×2  
   I have two of these operating as CCTV cameras for the house, running MotionEye, like the hub.
 
 2. as above
 
-3. **PAT server**
+3. **PAT server**  
   I'm running this one as a PAT server so I can access my Winlink email from anywhere

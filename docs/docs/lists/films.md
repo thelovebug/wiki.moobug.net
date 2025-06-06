@@ -1,5 +1,4 @@
 ---
-status: new
 icon: material/movie-open
 ---
 
@@ -130,7 +129,7 @@ icon: material/movie-open
         { .annotate }
 
         1. 
-            I'm only including the first two films in this franchise.  The 2016 film was moderately awful, and the 2020's follow-on from the first two where amazing, but I'm not sure they're excessively rewatchable.  I'm happy to be proven wrong.
+            I'm only including the first two films in this franchise.  The 2016 film was moderately awful, and the 2020's follow-on from the first two were amazing, but I'm not sure they're excessively rewatchable.  I'm happy to be proven wrong.
 
     -   ![>][pJamesB]
         **James Bond**  
@@ -196,7 +195,7 @@ icon: material/movie-open
 
     -   ![>][pSuperm]
         **Superman**  
-        ^**1978-1983**\ (partial)^
+        ^**1978-1987**^
 
         ^[Wiki][wSuperm]^
 
@@ -204,7 +203,7 @@ icon: material/movie-open
         { .annotate }
 
         1. 
-            I've only seen the first three movies.
+            I mean, the first three films are great... the fourth one, yeah it's ok.
 
     </div>
 
