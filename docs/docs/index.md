@@ -28,4 +28,8 @@ icon: material/home
 
 - [:material-dots-horizontal-circle: Misc](misc/index.md)
 
+- [:material-microphone: Podcasting](podcasting/index.md)
+
+    *and related stuff*
+
 </div>
