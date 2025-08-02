@@ -1,6 +1,7 @@
 site_name: Moobug Wiki
 site_url: https://wiki.moobug.net
 repo_url: https://github.com/thelovebug/wiki.moobug.net
+
 theme:
   name: 'material'
   icon:
@@ -27,9 +28,8 @@ theme:
     - navigation.indexes
     - navigation.tabs
 
-use_directory_urls: true
-
 extra_css: [ "extra.css" ]
+
 markdown_extensions:
   - abbr
   - admonition
