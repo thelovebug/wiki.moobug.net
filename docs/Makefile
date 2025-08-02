@@ -23,7 +23,7 @@ s serve:
 
 
 b build:
-	mkdocs build --strict
+	mkdocs build --strict --use-directory-urls
 
 d deploy:
-	mkdocs gh-deploy --strict --force
+	mkdocs gh-deploy --strict --force --use-directory-urls
