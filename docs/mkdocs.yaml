@@ -27,6 +27,8 @@ theme:
     - navigation.indexes
     - navigation.tabs
 
+use_directory_urls: true
+
 extra_css: [ "extra.css" ]
 markdown_extensions:
   - abbr
