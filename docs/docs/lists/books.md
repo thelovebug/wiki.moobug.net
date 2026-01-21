@@ -1,5 +1,4 @@
 ---
-status: new
 icon: octicons/book-16
 ---
 
@@ -47,7 +46,7 @@ icon: octicons/book-16
     |   | Twisted | 2019 | :octicons-check-circle-16: |
     |   | Kill For Me Kill For You | 2023 |  |
 
-??? note "Imogen Clark [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B072MQSF1Y/allbooks) Izzy Bromley [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B0BS42HVLW/allbooks) :material-numeric-7-circle:"
+??? note "Imogen Clark [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B072MQSF1Y/allbooks) Izzy Bromley [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B0BS42HVLW/allbooks) :material-plus-circle:"
 
     | # | Title | Published | Read |
     | :-: | :-- | :-- | :-: |
@@ -64,7 +63,9 @@ icon: octicons/book-16
     |   | Table For Five | 2024 |  |
     |   | A Borrowed Path | 2024 |  |
     |   | The Bed in the Shed | 2025 | |
-    |   | _In Another Life_ | _2025_ | |
+    |   | In Another Life | 2025 | |
+    |   | The Glamp Site | 2026 | |
+    |   | _Late In The Day_ | _2026_ | |
 
 ??? note "David Eddings [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B000AQ3E7A/allbooks) :material-numeric-7-circle:"
 
@@ -157,7 +158,7 @@ icon: octicons/book-16
     | 9 | Mission in Malmö | 2022 | :octicons-check-circle-16: |
     | 10 | Myth in Malmö | 2024 | :octicons-check-circle-16: |
 
-??? note "Richard Osman [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B074KL81KM/allbooks) :material-numeric-3-circle:"
+??? note "Richard Osman [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B074KL81KM/allbooks) :material-numeric-4-circle:"
 
     | # | Title | Published | Read |
     | :-: | :-- | :-- | :-: |
@@ -166,6 +167,7 @@ icon: octicons/book-16
     | 2 | The Man Who Died Twice | 2021 |  |
     | 3 | The Bullet That Missed | 2022 |  |
     | 4 | The Last Devil To Die | 2023 |  |
+    | 5 | The Impossible Fortune | 2025 |  |
 
 ??? note "Brian Rathbone [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B002BM0ENS/allbooks) :octicons-check-circle-16:"
 
