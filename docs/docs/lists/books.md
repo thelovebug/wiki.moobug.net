@@ -117,7 +117,7 @@ icon: octicons/book-16
     | 3 | Idle Hands | 2020 | :octicons-check-circle-16: |
     |   | **DI Jamie Johansson** | [:fontawesome-brands-amazon:](https://www.amazon.co.uk/dp/B08V8VKBM4) |  |
     | 1 | Angel Maker | 2021 | :octicons-check-circle-16: |
-    | 2 | Rising Tide | 2021 |  |
+    | 2 | Rising Tide | 2021 | :octicons-check-circle-16: |
     | 3 | Old Blood | 2021 |  |
     | 4 | Death Chorus | 2021 |  |
     | 5 | Quiet Wolf | 2022 |  |
