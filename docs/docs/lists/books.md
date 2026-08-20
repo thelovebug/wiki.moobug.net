@@ -33,18 +33,19 @@ icon: octicons/book-16
     |  | **Eddie Flynn** | [:fontawesome-brands-amazon:](https://www.amazon.co.uk/dp/B07T3HPBQD) |  |
     | 0.1 | The Neon Punch | 2020 |  |
     | 0.5 | The Cross | 2015 | :octicons-check-circle-16: |
-    | 1 | The Defence | 2015 | :octicons-check-circle-16: |
-    | 2 | The Plea | 2016 | :octicons-check-circle-16: |
-    | 3 | The Liar | 2017 | :octicons-check-circle-16: |
-    | 4 | Thirteen | 2018 | :octicons-check-circle-16: |
-    | 5 | Fifty Fifty | 2020 | :octicons-check-circle-16: |
-    | 6 | The Devil's Advocate | 2021 | :octicons-check-circle-16: |
-    | 7 | The Accomplice | 2022 | :octicons-check-circle-16: |
-    | 8 | Witness 8 | 2024 |  |
-    | 9 | Two Kinds of Stranger | 2025 |  |
-    |   | **Standalone** |  |  |
-    |   | Twisted | 2019 | :octicons-check-circle-16: |
-    |   | Kill For Me Kill For You | 2023 |  |
+    |   1 | The Defence | 2015 | :octicons-check-circle-16: |
+    |   2 | The Plea | 2016 | :octicons-check-circle-16: |
+    |   3 | The Liar | 2017 | :octicons-check-circle-16: |
+    |   4 | Thirteen | 2018 | :octicons-check-circle-16: |
+    |   5 | Fifty Fifty | 2020 | :octicons-check-circle-16: |
+    |   6 | The Devil's Advocate | 2021 | :octicons-check-circle-16: |
+    |   7 | The Accomplice | 2022 | :octicons-check-circle-16: |
+    |   8 | Witness 8 | 2024 | :octicons-arrow-left-16: |
+    |   9 | Two Kinds of Stranger | 2025 |  |
+    |  10 | One Of Us Is Guilty | 2026 |  |
+    |     | **Standalone** |  |  |
+    |     | Twisted | 2019 | :octicons-check-circle-16: |
+    |     | Kill For Me Kill For You | 2023 |  |
 
 ??? note "Imogen Clark [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B072MQSF1Y/allbooks) Izzy Bromley [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B0BS42HVLW/allbooks) :material-plus-circle:"
 
@@ -55,7 +56,7 @@ icon: octicons/book-16
     |   | Where The Story Starts | 2019 | :octicons-check-circle-16: |
     |   | Postcards at Christmas | 2019 | :octicons-check-circle-16: |
     |   | The Last Piece | 2020 | :octicons-check-circle-16: |
-    |   | Reluctantly Home | 2021 |  |
+    |   | Reluctantly Home | 2021 | :octicons-check-circle-16: |
     |   | Impossible To Forget | 2022 |  |
     |   | An Unwanted Inheritance | 2022 |  |
     |   | The Coach Trip | 2023 |  |
@@ -65,7 +66,8 @@ icon: octicons/book-16
     |   | The Bed in the Shed | 2025 | |
     |   | In Another Life | 2025 | |
     |   | The Glamp Site | 2026 | |
-    |   | _Late In The Day_ | _2026_ | |
+    |   | Late In The Day | 2026 | |
+    |   | _The House Sitter_ | _2026_ | |
 
 ??? note "David Eddings [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B000AQ3E7A/allbooks) :material-numeric-7-circle:"
 
@@ -95,7 +97,7 @@ icon: octicons/book-16
     | 1 | Domes Of Fire | 1992 | :octicons-question-16: |
     | 2 | The Shining Ones | 1993 | :octicons-question-16: |
     | 3 | The Hidden City | 1994 | :octicons-question-16: |
-    |   |  **The Dreamers** | |  |
+    |   |  **The Dreamers** | [:fontawesome-brands-amazon:](https://www.amazon.co.uk/dp/B074CD8NNQ) |  |
     | 1 | The Elder Gods | 2003 |  |
     | 2 | The Treasured One | 2004 |  |
     | 3 | Crystal Gorge | 2005 |  |
@@ -118,7 +120,7 @@ icon: octicons/book-16
     |   | **DI Jamie Johansson** | [:fontawesome-brands-amazon:](https://www.amazon.co.uk/dp/B08V8VKBM4) |  |
     | 1 | Angel Maker | 2021 | :octicons-check-circle-16: |
     | 2 | Rising Tide | 2021 | :octicons-check-circle-16: |
-    | 3 | Old Blood | 2021 |  |
+    | 3 | Old Blood | 2021 | :octicons-check-circle-16: |
     | 4 | Death Chorus | 2021 |  |
     | 5 | Quiet Wolf | 2022 |  |
     | 6 | Ice Queen | 2022 |  |
@@ -128,7 +130,17 @@ icon: octicons/book-16
     | 10 | The Hiss Of The Snake | 2024 |  |
     | 11 | The Devil In The Dark | 2024 |  |
     | 12 | The First Snow Of Winter | 2025 |  |
-    | 13 | _The Deepest Grave Of All_ | _2026_ |  |
+    | 13 | The Deepest Grave Of All | 2026 |  |
+    |    | **Solomon Church** | [:fontawesome-brands-amazon:](https://www.amazon.co.uk/dp/B0DNTNJX9T) |  |
+    |  1 | The Exile | 2025 |  |
+    |  2 | The Fury | 2025 |  |
+    |  3 | The Outcast | 2025 |  |
+    |  4 | The Carrier | 2025 |  |
+    |  5 | The Widow | 2025 |  |
+    |  6 | The Ghost | 2026 |  |
+    |    | **Detective Alexandra Marshall** | [:fontawesome-brands-amazon:](https://www.amazon.co.uk/dp/B0H1RLKQV8) |  |
+    |  1 | The Girl Who Lived | 2026 |  |
+    |  2 | _The Missing Wives_ | _2026_ |  |
 
 ??? note "Joan Lingard [:fontawesome-brands-amazon:](https://www.amazon.co.uk/stores/author/B00455ISP0/allbooks) :octicons-check-circle-16:"
 
